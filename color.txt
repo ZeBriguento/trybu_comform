@@ -1,0 +1,2 @@
+secundary = #e4aa46
+primary = #b16c2a

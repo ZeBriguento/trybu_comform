@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026429823971",
+    "project_id": "tryboconformapp-1d96a",
+    "storage_bucket": "tryboconformapp-1d96a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026429823971:android:3996a0fa4ff719d5f10ed6",
+        "android_client_info": {
+          "package_name": "com.example.trybu_comform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026429823971-f4m603lfn58ga7mr4r5dm3pq1vd3pvp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL78vBauTRcNxCGx9CjB0r6d2Qqox2Wek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026429823971-f4m603lfn58ga7mr4r5dm3pq1vd3pvp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
